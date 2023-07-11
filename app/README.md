@@ -1,5 +1,5 @@
 # testing webhook on github and jenkins with Tech241
-# testing CI/CD pipeline hopefully dupa dupa
+# testing CI/CD pipeline hopefully dupa
 
 
 ## Sparta Node Sample App
