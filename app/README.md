@@ -1,6 +1,6 @@
 # testing webhook on github and jenkins with Tech241
-# testing CI/CD pipeline for HO show me session
-
+# testing CI/CD pipeline
+# for HO show me / tell me session
 
 ## Sparta Node Sample App
 
@@ -61,6 +61,8 @@ npm test
 ```
 
 The test for posts will fail ( as expected ) if the database has not been correctly setup.
+
+
 
 
 
