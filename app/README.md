@@ -1,4 +1,3 @@
-# Test 1
 
 ## Sparta Node Sample App
 
