@@ -1,6 +1,4 @@
-# testing webhook on github and jenkins with Tech241
-# testing CI/CD pipeline
-# for HO show me / tell me session
+
 
 ## Sparta Node Sample App
 
