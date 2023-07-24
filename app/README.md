@@ -1,4 +1,4 @@
-# HO show me session
+
 ## Sparta Node Sample App
 
 ## Description
